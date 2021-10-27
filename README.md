@@ -1,7 +1,7 @@
 - 👋 Hi, We are @NastroStudios
-- 👀 We interested in Game development
-- 🌱 We currently working on a project named Ellan
-- 💞️ We looking for your views on the project Ellan
+- 👀 We are interested in Game development
+- 🌱 We are currently working on a project named Ellan
+- 💞️ We are looking for your views on the project Ellan
 - 📫 Contact us :- nastrostudios@gmail.com
 
 <!---
