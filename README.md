@@ -1,7 +1,7 @@
 - 👋 Hi, We are @NastroStudios
 - 👀 We are interested in Game development
 - 🌱 We are currently working on a project named Ellan
-- 💞️ We are looking for your views on the project Ellan
+- 💞️ Wishlist Ellan on Steam today - https://store.steampowered.com/app/2487650/Ellan_The_Lost_Soul/
 - 📫 Contact us :- nastrostudios@gmail.com
 
 <!---
